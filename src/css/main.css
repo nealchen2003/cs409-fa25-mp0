@@ -1,1 +1,18 @@
 /* Your CSS here. */
+article {
+    background: #666666;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#email {
+    font-style: italic;
+}
+img {
+    height: 150px;
+    width: 150px;
+}
